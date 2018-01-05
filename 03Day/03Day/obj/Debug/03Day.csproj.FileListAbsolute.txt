@@ -1,0 +1,7 @@
+C:\Users\Pc\source\repos\adventOfCode\03Day\03Day\bin\Debug\03Day.exe.config
+C:\Users\Pc\source\repos\adventOfCode\03Day\03Day\bin\Debug\03Day.exe
+C:\Users\Pc\source\repos\adventOfCode\03Day\03Day\bin\Debug\03Day.pdb
+C:\Users\Pc\source\repos\adventOfCode\03Day\03Day\obj\Debug\03Day.csprojResolveAssemblyReference.cache
+C:\Users\Pc\source\repos\adventOfCode\03Day\03Day\obj\Debug\03Day.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\adventOfCode\03Day\03Day\obj\Debug\03Day.exe
+C:\Users\Pc\source\repos\adventOfCode\03Day\03Day\obj\Debug\03Day.pdb
